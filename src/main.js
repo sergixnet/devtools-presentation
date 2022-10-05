@@ -3,6 +3,8 @@ function function1() {
   let y = 20;
 
   console.log(x + y);
+
+  debugger;
   
   function2();
 }
@@ -21,4 +23,4 @@ function function3() {
 
 function1();
 
-console.log("hola");
+// console.log("hola");
